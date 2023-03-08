@@ -11,4 +11,4 @@
   - on Canva.com select Share Button -> Download -> PDF Standard
   - Naming file as proper format and file type PDF
 
-# 4. Upload your CV as PDF file format to this repository
+# 4. Upload your draft CV to this repository
